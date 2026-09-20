@@ -43,4 +43,4 @@ class Solution:
 
 # Local runner
 sol = Solution()
-print(sol.reverseDegree("abc"))  # Output: 148
+print(sol.reverseDegree("abcd"))  # Output: 148
